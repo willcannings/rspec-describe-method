@@ -16,7 +16,7 @@ end
 
 In your spec_helper.rb:
 ```ruby
-require 'rspec/describe-method'
+require 'rspec/describe_method'
 ```
 
 And your specs can look like this:
